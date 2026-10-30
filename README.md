@@ -2,6 +2,10 @@
 
 A web application for managing tax-project engagement activity. This repository contains separate React/Vite and Express/TypeScript npm projects. It includes a dashboard, user and project management, and activity-history workflows backed by persistent NeDB storage.
 
+## Demo
+
+A demo instance is available at <https://activitytracker.kronos-qc.com/>. The API is served from the same address under `/api` (for example, <https://activitytracker.kronos-qc.com/api/health>).
+
 ## Technology
 
 - Frontend: React, TypeScript, Vite, Material UI
